@@ -10,7 +10,7 @@
 - 🔭 I'm currently working on a **LLM Based Research Paper**
 - 🌱 I'm currently learning **LLM and Agentic AI**
 - 👯 All of my projects are available at [https://github.com/sadmaaansakib](https://github.com/sadmaaansakib)
-- 💬 Ask me about **Java, C, C++, Python**
+- 💬 Ask me about **Java, C, C++ and Python**
 - 📫 Reach me at **sadmaaansakib@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
