@@ -46,19 +46,8 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sadmaansakib&theme=dracula&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sadmaaansakib&show_icons=true&theme=dark" alt="SadmanSakib's GitHub stats" height="150" />
 </p>
-
 <p align="left">
-  <a href="https://wakatime.com/@sadmaansakib">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sadmaansakib&layout=compact&theme=dark" alt="WakaTime Stats" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/sadmaansakib">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=false&vCenter=false&width=435&lines=Hi+there,+I'm+Sadmaan+Sakib+👋;Full-Stack+Developer;Always+learning+new+technologies" alt="Typing SVG" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadmaaansakib&theme=dark" alt="SadmanSakib's GitHub Streak" />
 </p>
