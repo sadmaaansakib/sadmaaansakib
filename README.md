@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadmaansakib&layout=compact&theme=dark&v=1" alt="SadmaanSakib's Top Languages" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sadmaansakib&layout=compact&theme=dark&v=1" alt="SadmaanSakib's Top Languages" height="150" />
 </p>
 
 <p align="center">
