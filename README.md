@@ -39,15 +39,16 @@
 
 <br/>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/sadmaansakib">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadmaansakib&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Recent%20Contribution%20Activity" alt="Activity Graph" width="100%">
   </a>
 </p>
 
-<p align="left">
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sadmaansakib&layout=compact&theme=dark" alt="SadmaanSakib's Top Languages" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadmaansakib&layout=compact&theme=dark&v=1" alt="SadmaanSakib's Top Languages" height="150" />
 </p>
-<p align="left">
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadmaaansakib&theme=dark" alt="SadmanSakib's GitHub Streak" />
 </p>
