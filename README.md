@@ -40,10 +40,11 @@
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sadmaansakib&show_icons=true&theme=dark" alt="SadmaanSakib's GitHub stats" height="150" />
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sadmaansakib&layout=compact&theme=dark" alt="SadmaanSakib's Top Languages" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sadmaaansakib&show_icons=true&theme=dark" alt="SadmaanSakib's GitHub stats" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sadmaaansakib&layout=compact&theme=dark" alt="SadmaanSakib's Top Languages" height="150" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadmaansakib&theme=dark" alt="SadmaanSakib's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadmaaansakib&theme=dark" alt="SadmaanSakib's GitHub Streak" />
 </p>
+
