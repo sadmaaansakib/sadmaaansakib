@@ -48,5 +48,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadmaaansakib&theme=dark&v=1" alt="SadmanSakib's GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sadmaaansakib&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="SadmanSakib's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sadmaaansakib&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="SadmanSakib's Top Languages" width="48%" />
 </p>
